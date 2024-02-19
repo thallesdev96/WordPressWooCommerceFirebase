@@ -1,0 +1,110 @@
+2024-02-13T03:03:52+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-13T07:36:33+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-13T08:03:48+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-13T08:32:30+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-13T08:58:42+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-13T09:25:29+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-13T09:39:29+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-13T10:07:00+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-13T10:12:06+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\ServiceAccount::fromJsonFile() in /srv/www/wordpress/firebase.php:6
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 6
+
+2024-02-13T10:13:40+00:00 CRITICAL Cannot use Kreait\Firebase\Factory as Factory because the name is already in use in /srv/www/wordpress/firebase.php on line 6
+
+2024-02-13T10:13:51+00:00 CRITICAL Cannot use Kreait\Firebase\Factory as Factory because the name is already in use in /srv/www/wordpress/firebase.php on line 6
+
+2024-02-13T10:13:57+00:00 CRITICAL require(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php') in /srv/www/wordpress/firebase.php on line 2
+
+2024-02-13T10:14:36+00:00 CRITICAL Uncaught UnexpectedValueException: The file at '/srv/www/wordpress/google-service-account.json' does not exist in /srv/www/wordpress/vendor/beste/json/src/Json.php:41
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/ServiceAccount.php(89): Beste\Json::decodeFile()
+#1 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(105): Kreait\Firebase\ServiceAccount::fromValue()
+#2 /srv/www/wordpress/firebase.php(6): Kreait\Firebase\Factory->withServiceAccount()
+#3 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#4 {main}
+
+Next Kreait\Firebase\Exception\InvalidArgumentException: Invalid service account: The file at '/srv/www/wordpress/google-service-account.json' does not exist in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/ServiceAccount.php:91
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(105): Kreait\Firebase\ServiceAccount::fromValue()
+#1 /srv/www/wordpress/firebase.php(6): Kreait\Firebase\Factory->wit in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/ServiceAccount.php on line 91
+
+2024-02-13T10:14:37+00:00 CRITICAL Uncaught UnexpectedValueException: The file at '/srv/www/wordpress/google-service-account.json' does not exist in /srv/www/wordpress/vendor/beste/json/src/Json.php:41
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/ServiceAccount.php(89): Beste\Json::decodeFile()
+#1 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(105): Kreait\Firebase\ServiceAccount::fromValue()
+#2 /srv/www/wordpress/firebase.php(6): Kreait\Firebase\Factory->withServiceAccount()
+#3 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#4 {main}
+
+Next Kreait\Firebase\Exception\InvalidArgumentException: Invalid service account: The file at '/srv/www/wordpress/google-service-account.json' does not exist in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/ServiceAccount.php:91
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(105): Kreait\Firebase\ServiceAccount::fromValue()
+#1 /srv/www/wordpress/firebase.php(6): Kreait\Firebase\Factory->wit in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/ServiceAccount.php on line 91
+
+2024-02-13T10:15:40+00:00 CRITICAL Uncaught Error: Call to a member function getDatabase() on null in /srv/www/wordpress/firebase.php:10
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 10
+
+2024-02-13T22:40:32+00:00 CRITICAL Cannot redeclare your_prefix_on_insert_rest_api() (previously declared in /srv/www/wordpress/wp-content/themes/blogier/functions.php:56) in /srv/www/wordpress/firebase.php on line 13
+
+2024-02-13T22:40:35+00:00 CRITICAL Cannot redeclare your_prefix_on_insert_rest_api() (previously declared in /srv/www/wordpress/wp-content/themes/blogier/functions.php:56) in /srv/www/wordpress/firebase.php on line 13
+
+2024-02-13T22:40:37+00:00 CRITICAL Cannot redeclare your_prefix_on_insert_rest_api() (previously declared in /srv/www/wordpress/wp-content/themes/blogier/functions.php:56) in /srv/www/wordpress/firebase.php on line 13
+
+2024-02-13T22:40:38+00:00 CRITICAL Cannot redeclare your_prefix_on_insert_rest_api() (previously declared in /srv/www/wordpress/wp-content/themes/blogier/functions.php:56) in /srv/www/wordpress/firebase.php on line 13
+
+2024-02-13T22:40:42+00:00 CRITICAL Cannot redeclare your_prefix_on_insert_rest_api() (previously declared in /srv/www/wordpress/wp-content/themes/blogier/functions.php:56) in /srv/www/wordpress/firebase.php on line 13
+

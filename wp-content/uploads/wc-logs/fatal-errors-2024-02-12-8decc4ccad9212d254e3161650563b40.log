@@ -1,0 +1,778 @@
+2024-02-12T00:06:40+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T00:06:41+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T00:06:59+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T00:07:41+00:00 CRITICAL Uncaught Error: Class 'ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T00:07:42+00:00 CRITICAL Uncaught Error: Class 'ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T00:09:12+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T00:10:46+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T00:10:47+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T00:58:26+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T09:58:06+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T10:33:23+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T11:34:13+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:21:37+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:26:51+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:26:52+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:27:00+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:27:02+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:27:04+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:27:17+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:27:17+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:31:02+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:31:23+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:31:33+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:32:11+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:32:28+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:32:53+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:32:56+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:34:27+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:35:04+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:35:30+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:37:04+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:38:01+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:38:38+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:39:09+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:40:22+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:40:42+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:41:19+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T15:41:29+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T16:00:27+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T18:50:45+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T18:50:46+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T18:50:46+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T18:50:46+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T20:51:10+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:10:06+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:10:39+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:12:51+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:12:51+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:12:55+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:12:56+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:13:20+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:14:10+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:14:26+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:14:41+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:15:25+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:17:39+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:19:38+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:19:43+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:19:46+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:19:49+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:19:51+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:20:03+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:20:07+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:20:10+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:20:10+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:21:44+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:22:51+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:23:06+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:23:08+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:23:08+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:24:41+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:26:47+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:29:05+00:00 CRITICAL syntax error, unexpected '$serviceAccount' (T_VARIABLE) in /srv/www/wordpress/firebase.php on line 13
+
+2024-02-12T22:32:03+00:00 CRITICAL syntax error, unexpected '$serviceAccount' (T_VARIABLE) in /srv/www/wordpress/firebase.php on line 13
+
+2024-02-12T22:33:30+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:10
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 10
+
+2024-02-12T22:34:21+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:34:28+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:35:09+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:36:02+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:36:32+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:46:06+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:47:54+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\ServiceAccount::fromJsonFile() in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:47:54+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\ServiceAccount::fromJsonFile() in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:49:01+00:00 CRITICAL Uncaught Kreait\Firebase\Exception\InvalidArgumentException: Invalid service account: Unsupported value in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/ServiceAccount.php:103
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(105): Kreait\Firebase\ServiceAccount::fromValue()
+#1 /srv/www/wordpress/firebase.php(15): Kreait\Firebase\Factory->withServiceAccount()
+#2 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#3 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/ServiceAccount.php on line 103
+
+2024-02-12T22:49:01+00:00 CRITICAL Uncaught Kreait\Firebase\Exception\InvalidArgumentException: Invalid service account: Unsupported value in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/ServiceAccount.php:103
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(105): Kreait\Firebase\ServiceAccount::fromValue()
+#1 /srv/www/wordpress/firebase.php(15): Kreait\Firebase\Factory->withServiceAccount()
+#2 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#3 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/ServiceAccount.php on line 103
+
+2024-02-12T22:49:19+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\Factory::create() in /srv/www/wordpress/firebase.php:16
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 16
+
+2024-02-12T22:49:54+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\ServiceAccount::fromJsonFile() in /srv/www/wordpress/firebase.php:10
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 10
+
+2024-02-12T22:49:55+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\ServiceAccount::fromJsonFile() in /srv/www/wordpress/firebase.php:10
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 10
+
+2024-02-12T22:51:15+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\Factory::create() in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:51:15+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\Factory::create() in /srv/www/wordpress/firebase.php:11
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T22:52:01+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\Database::getDatabase() in /srv/www/wordpress/firebase.php:14
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 14
+
+2024-02-12T22:52:01+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\Database::getDatabase() in /srv/www/wordpress/firebase.php:14
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 14
+
+2024-02-12T22:53:30+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\Database::getDatabase() in /srv/www/wordpress/firebase.php:14
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 14
+
+2024-02-12T22:54:43+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\Database::getDatabase() in /srv/www/wordpress/firebase.php:14
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 14
+
+2024-02-12T22:54:43+00:00 CRITICAL Uncaught Error: Call to undefined method Kreait\Firebase\Database::getDatabase() in /srv/www/wordpress/firebase.php:14
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 14
+
+2024-02-12T22:55:52+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\Factory' not found in /srv/www/wordpress/firebase.php:8
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 8
+
+2024-02-12T22:55:52+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\Factory' not found in /srv/www/wordpress/firebase.php:8
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 8
+
+2024-02-12T22:56:42+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:8
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 8
+
+2024-02-12T22:56:42+00:00 CRITICAL Uncaught Error: Class 'Kreait\Firebase\ServiceAccount' not found in /srv/www/wordpress/firebase.php:8
+Stack trace:
+#0 /srv/www/wordpress/index.php(19): require()
+#1 {main}
+  thrown in /srv/www/wordpress/firebase.php on line 8
+
+2024-02-12T22:58:00+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:354
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(446): Kreait\Firebase\Factory->getDatabaseUri()
+#1 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase.php(39): Kreait\Firebase\Factory->createDatabase()
+#2 /srv/www/wordpress/firebase.php(16): Kreait\Firebase->getDatabase()
+#3 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#4 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 354
+
+2024-02-12T22:58:43+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:354
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(446): Kreait\Firebase\Factory->getDatabaseUri()
+#1 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase.php(39): Kreait\Firebase\Factory->createDatabase()
+#2 /srv/www/wordpress/firebase.php(16): Kreait\Firebase->getDatabase()
+#3 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#4 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 354
+
+2024-02-12T23:00:54+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:354
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(446): Kreait\Firebase\Factory->getDatabaseUri()
+#1 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase.php(39): Kreait\Firebase\Factory->createDatabase()
+#2 /srv/www/wordpress/firebase.php(16): Kreait\Firebase->getDatabase()
+#3 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#4 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 354
+
+2024-02-12T23:01:44+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:354
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(446): Kreait\Firebase\Factory->getDatabaseUri()
+#1 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase.php(39): Kreait\Firebase\Factory->createDatabase()
+#2 /srv/www/wordpress/firebase.php(16): Kreait\Firebase->getDatabase()
+#3 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#4 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 354
+
+2024-02-12T23:02:56+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:354
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(446): Kreait\Firebase\Factory->getDatabaseUri()
+#1 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase.php(39): Kreait\Firebase\Factory->createDatabase()
+#2 /srv/www/wordpress/firebase.php(16): Kreait\Firebase->getDatabase()
+#3 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#4 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 354
+
+2024-02-12T23:02:56+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:354
+Stack trace:
+#0 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php(446): Kreait\Firebase\Factory->getDatabaseUri()
+#1 /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase.php(39): Kreait\Firebase\Factory->createDatabase()
+#2 /srv/www/wordpress/firebase.php(16): Kreait\Firebase->getDatabase()
+#3 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#4 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 354
+
+2024-02-12T23:05:30+00:00 CRITICAL syntax error, unexpected end of file, expecting ')' in /srv/www/wordpress/firebase.php on line 29
+
+2024-02-12T23:05:46+00:00 CRITICAL syntax error, unexpected end of file, expecting ')' in /srv/www/wordpress/firebase.php on line 9
+
+2024-02-12T23:05:47+00:00 CRITICAL syntax error, unexpected end of file, expecting ')' in /srv/www/wordpress/firebase.php on line 9
+
+2024-02-12T23:05:57+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /srv/www/wordpress/firebase.php on line 7
+
+2024-02-12T23:05:58+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /srv/www/wordpress/firebase.php on line 7
+
+2024-02-12T23:13:24+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:15:52+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:17:03+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:17:04+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:17:33+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:17:34+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:18:15+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:18:25+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:18:26+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:18:54+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:19:10+00:00 CRITICAL syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file in /srv/www/wordpress/firebase.php on line 8
+
+2024-02-12T23:19:39+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:19:40+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(9): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:20:35+00:00 CRITICAL syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /srv/www/wordpress/firebase.php on line 9
+
+2024-02-12T23:21:14+00:00 CRITICAL syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /srv/www/wordpress/firebase.php on line 10
+
+2024-02-12T23:21:16+00:00 CRITICAL syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /srv/www/wordpress/firebase.php on line 10
+
+2024-02-12T23:21:34+00:00 CRITICAL syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /srv/www/wordpress/firebase.php on line 10
+
+2024-02-12T23:22:10+00:00 CRITICAL syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /srv/www/wordpress/firebase.php on line 11
+
+2024-02-12T23:22:45+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:24:50+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:27:41+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+
+2024-02-12T23:55:44+00:00 CRITICAL Uncaught Error: Call to undefined function GuzzleHttp\Psr7\uri_for() in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php:177
+Stack trace:
+#0 /srv/www/wordpress/firebase.php(10): Kreait\Firebase\Factory->withDatabaseUri()
+#1 /srv/www/wordpress/index.php(19): require('/srv/www/wordpr...')
+#2 {main}
+  thrown in /srv/www/wordpress/vendor/kreait/firebase-php/src/Firebase/Factory.php on line 177
+

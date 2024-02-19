@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "require": {
+      "kreait/firebase-php": "6.0",
+      "guzzlehttp/guzzle": "^7.2.0"
+    }
+  },
+  "require": {
+    "kreait/firebase-php": "^6.0",
+    "guzzlehttp/guzzle": "^7.2.0"
+  }
+}
